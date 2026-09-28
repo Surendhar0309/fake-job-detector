@@ -1,0 +1,5 @@
+venv
+_pycache_/
+*.pyc
+models/*.joblib
+data/fake_job_postings.csv
