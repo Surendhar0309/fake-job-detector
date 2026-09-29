@@ -1,5 +1,6 @@
-venv
+venv/
 _pycache_/
 *.pyc
 models/*.joblib
 data/fake_job_postings.csv
+.DS_Store
