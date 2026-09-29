@@ -1,6 +1,5 @@
 # AI-Driven Fake Job Post Detection using Machine Learning and NLP
 
-**Capstone Project - 0th Review** | Surendhar V | RA2532014020075
 
 ## Overview
 Detects fraudulent online job advertisements. Text fields (title, company profile, description, requirements,
